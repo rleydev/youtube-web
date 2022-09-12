@@ -5,4 +5,4 @@ Youtube web page design
 Lang: HTML, CSS
 
 - static design
-- adaptive grid
+- flexible grid
