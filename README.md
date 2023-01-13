@@ -7,4 +7,4 @@ Lang: HTML, CSS
 - flexible grid
 - responsive landing
 
-Deploy link: https://rleydev.github.io/youtubeWP/youtube.html
+Deploy link: https://rleydev.github.io/youtube-web/youtube.html
