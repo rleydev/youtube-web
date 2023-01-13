@@ -1,8 +1,10 @@
 # youtubeWP
 
-Youtube web page design 
+Youtube web page clone 
 
 Lang: HTML, CSS
 
-- static design
 - flexible grid
+- responsive landing
+
+Deploy link: https://rleydev.github.io/youtubeWP/youtube.html
